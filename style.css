@@ -1,0 +1,42 @@
+body {
+	font-family: sans-serif;
+	margin: 50px;
+	background: rgb(101, 23, 88);
+	background: linear-gradient(
+		90deg,
+		rgba(101, 23, 88, 1) 0%,
+		rgba(49, 21, 98, 1) 50%,
+		rgba(27, 24, 52, 1) 100%
+	);
+}
+
+h1 {
+	color: #ff1675;
+	font-size: 18px;
+}
+
+h2 {
+	font-size: 48px;
+	color: #ffffff;
+}
+
+p {
+	color: #ffffff;
+}
+
+a {
+	background-color: #ff1675;
+	padding: 15px;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	border-radius: 30px;
+}
+
+a:hover {
+	background-color: #333;
+}
+
+img {
+	margin-bottom: 50px;
+}
